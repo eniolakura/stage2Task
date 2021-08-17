@@ -1,0 +1,37 @@
+body{
+	text-align: center;
+	margin: 50px;
+}
+
+
+
+
+.line_1{
+	height: 2px;
+	width: 100%;
+    background: green;
+
+
+}
+.header{
+	text-align: center;
+}
+.line_2{
+	height: 2px;
+	background: green;
+}
+.line_3{
+	height: 2px;
+	background: green;
+}
+.line_x{
+	height: 2px;
+	background: green;
+}
+.line_4{
+	height: 2px;
+	background: green;
+}
+.list_items{
+	text-align: left;
+}
